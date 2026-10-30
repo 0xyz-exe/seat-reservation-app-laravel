@@ -45,15 +45,6 @@ All accounts use the password: `password`
 - **bookings**: `id`, `booking_code`, `user_id`, `event_id`, `total_seats`, `total_price`, `status` (confirmed/cancelled), `customer_name`, `customer_email`, `customer_phone`, `timestamps`
 - **booking_seats**: `id`, `booking_id`, `seat_id`, `price`, `timestamps`
 
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
-
 ## License
 
 MIT
