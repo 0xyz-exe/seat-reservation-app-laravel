@@ -14,6 +14,17 @@ An interactive real-time seat reservation, cinema theater, and transit booking p
 - ✅ **Cancellation & Seat Release**: Allows customers to cancel future bookings and instantly restore seat availability.
 - ✅ **Admin Show Creator**: Administrators can create new shows and automatically generate custom row-and-column seating matrices.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Pemesanan Kursi**<br>Ringkasan statistik pertunjukan aktif, total tiket terkonfirmasi, kursi terisi, dan katalog tayang terdekat | ![Dashboard Pemesanan Kursi](docs/screenshots/01-dashboard-overview.png) |
+| **Matriks Kursi 2D Interaktif**<br>Pemilihan kursi visual real-time dengan orientasi panggung/layar, pembeda lorong tengah, status VIP, dan kalkulasi subtotal instan | ![Matriks Kursi 2D Interaktif](docs/screenshots/02-interactive-seating-grid.png) |
+| **Tiket & Boarding Pass Digital**<br>Tampilan tiket resmi dengan kode referensi unik, simulasi barcode, rincian kursi, data pelanggan, dan fungsi cetak | ![Tiket & Boarding Pass Digital](docs/screenshots/03-digital-boarding-pass.png) |
+| **Manajemen Pertunjukan & Acara**<br>Katalog lengkap pertunjukan dengan filter kategori, jadwal tanggal, konfigurasi dimensi kursi, dan aksi edit/kelola | ![Manajemen Pertunjukan & Acara](docs/screenshots/04-admin-events-management.png) |
+
+---
+
 ## Tech Stack
 
 Laravel 13.38.0 · Breeze 2.4 · SQLite · Tailwind CSS · Alpine.js
